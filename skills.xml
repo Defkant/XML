@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<skills>
+
+	<skill_1>Базовая_теория_SDLC_STLC</skill_1>
+
+	<skill_2>Клиент_серверная_архитектура</skill_2>
+
+	<skill_3>HTTP_Методы_запросов_на_сервер</skill_3>
+
+	<skill_4>Коды_ответов_HTTP_сервера</skill_4>
+
+	<skill_5>Структуры_HTTP_запросов_и_ответов</skill_5>
+
+	<skill_6>JSON_XML_Их_структура</skill_6>
+
+	<skill_7>Тестирование_API_через_Postman</skill_7>
+
+	<skill_8>Снятие_и_чтение_логов_c_внешнего_сервера</skill_8>
+
+	<skill_9>Снифинг_http_web_трафика_через_Charles_и_Fiddler</skill_9>
+
+	<skill_10>Dev_Tools_веб_браузеров</skill_10>
+
+	<skill_11>VPN</skill_11>
+
+	<skill_12>Мобильное_тестирование</skill_12>
+
+	<skill_13>Особенность_iOS_Android_гайдлайны</skill_13>
+
+	<skill_14>Сборка_iOS_приложений_на_XCode</skill_14>
+
+	<skill_15>Сборка_Android_приложений_на_Android_Studio</skill_15>
+
+	<skill_16>ADB</skill_16>
+
+	<skill_17>Настройка_прокси_и_vpn_на_iOS_и_Android</skill_17>
+
+	<skill_18>Перехват_мобильного_трафика_через_Charles_и_Fiddler_на_iOS_и_Android</skill_18>
+
+	<skill_19>Командная_строка_(terminal)_Linux</skill_19>
+
+	<skill_20>Основы_bash_скриптинг_автоматизация_рутинных_задач_на_сервере</skill_20>
+
+	<skill_21>Доступ_к_удалённым_серверам</skill_21>
+
+	<skill_22>Основы_SQL</skill_22>
+
+	<skill_23>База_данных_Postgres</skill_23>
+
+	<skill_24>Не_реляционная_база_данных_Redis</skill_24>
+
+	<skill_25>Нагрузочное_тестирование_в_Jmeter</skill_25>
+
+	<skill_26>Методология_разработки_Scrum</skill_26>
+
+	<skill_27>Python_основы</skill_27>
+
+
+</skills>
+
