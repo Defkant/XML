@@ -1,1 +1,19 @@
+<?xml version="1.0"?>
+<bug_report>
+
+	<title>Заголовок_ошибки</title>
+
+	<summary>Описание_ошибки</summary>
+
+	<precondition>начальные_условия</precondition>
+
+	<steps_to_reproduce>шаги_воспроизведения</steps_to_reproduce>
+
+	<expected_result>ожидаемый_результат</expected_result>
+
+	<actual_result>фактический_результат</actual_result>
+
+	<attachments>вложения</attachments>
+
+</bug_report>
 
