@@ -1,0 +1,18 @@
+
+<?xml version="1.0"?>
+<student>
+
+	<surname>Алексеев</surname>
+
+	<name>Василий</name>
+
+	<patronymic>Андреевич</patronymic>
+
+	<Age>38</Age>
+
+	<number_of_pets>1</number_of_pets>
+
+	<future_desired_salary>50000</future_desired_salary>
+
+</student>
+
